@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851683233555",
+    "firebase_url": "https://pastor-oke.firebaseio.com",
+    "project_id": "pastor-oke",
+    "storage_bucket": "pastor-oke.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851683233555:android:04077f09c08123390494e6",
+        "android_client_info": {
+          "package_name": "apps.pastor.m_a_oke"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851683233555-arlt6trrotgbp87lj6vgkqbndklla194.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY8So8PqDYLCmZ5zxIM88u7ORiAO1nMYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851683233555-arlt6trrotgbp87lj6vgkqbndklla194.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
