@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="">PastorM.A.Oke</string>
+    <string name="app_name">PastorM.A.Oke</string>
 
    <string name="facebook_app_id">411659779726788</string>
 <string name="fb_login_protocol_scheme">fb411659779726788</string>
