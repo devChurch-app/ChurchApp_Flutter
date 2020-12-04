@@ -14,7 +14,7 @@ xmlns:tools="http://schemas.android.com/tools"
     <uses-permission android:name="android.permission.CAMERA" />
 
     <application
-        android:name=".Application"
+        android:name="io.flutter.app.FlutterApplication"
         android:label="PastorM.A.Oke"
         android:usesCleartextTraffic="true"
         android:networkSecurityConfig="@xml/jz_network_security_config"
